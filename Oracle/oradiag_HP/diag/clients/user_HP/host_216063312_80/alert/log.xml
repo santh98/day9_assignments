@@ -1,0 +1,371 @@
+<msg time='2021-12-28T09:01:00.415+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-KK6070H' host_addr='fe80::b901:1784:2bf2:efae%6'
+ version='1'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2021-12-28T09:01:00.482+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-KK6070H' host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Create Relation ADR_INVALIDATION
+ </txt>
+</msg>
+<msg time='2021-12-28T09:01:00.547+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-KK6070H' host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2021-12-28T09:01:00.641+05:30' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='DESKTOP-KK6070H' host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2021-12-28T09:01:00.734+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+ </txt>
+</msg>
+<msg time='2021-12-28T09:01:16.616+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+ </txt>
+</msg>
+<msg time='2021-12-28T09:03:03.298+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2021-12-28T18:07:39.581+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2021-12-29T08:51:03.811+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2021-12-29T09:03:33.295+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.701+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.711+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>
+Fatal NI connect error 12543, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-KK6070H)(USER=HP)))(ADDRESS=(PROTOCOL=TCP)(HOST=0.0.32.224)(PORT=1521)))
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.719+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.728+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>  Time: 29-DEC-2021 09:11:23
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.734+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.743+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.749+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    ns main err code: 12543
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.759+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.765+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>TNS-12543: TNS:destination host unreachable
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.775+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    ns secondary err code: 12560
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.780+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    nt main err code: 513
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.787+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.795+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>TNS-00513: Destination host unreachable
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.801+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    nt secondary err code: 51
+ </txt>
+</msg>
+<msg time='2021-12-29T09:11:23.810+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:03.164+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.486+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.498+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>
+Fatal NI connect error 12543, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-KK6070H)(USER=HP)))(ADDRESS=(PROTOCOL=TCP)(HOST=0.0.32.224)(PORT=1521)))
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.509+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.515+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>  Time: 29-DEC-2021 09:12:25
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.524+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.530+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.537+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    ns main err code: 12543
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.545+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.552+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>TNS-12543: TNS:destination host unreachable
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.561+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    ns secondary err code: 12560
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.567+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    nt main err code: 513
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.577+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.582+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>TNS-00513: Destination host unreachable
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.592+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    nt secondary err code: 51
+ </txt>
+</msg>
+<msg time='2021-12-29T09:12:25.597+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2021-12-29T09:16:42.336+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.382+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.393+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>
+Fatal NI connect error 12543, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-KK6070H)(USER=HP)))(ADDRESS=(PROTOCOL=TCP)(HOST=0.0.32.224)(PORT=1521)))
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.401+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.412+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>  Time: 29-DEC-2021 09:23:21
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.419+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.429+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.435+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    ns main err code: 12543
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.445+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.452+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>TNS-12543: TNS:destination host unreachable
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.461+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    ns secondary err code: 12560
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.467+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    nt main err code: 513
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.473+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.483+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>TNS-00513: Destination host unreachable
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.493+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    nt secondary err code: 51
+ </txt>
+</msg>
+<msg time='2021-12-29T09:23:21.499+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2021-12-29T09:24:25.570+05:30' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='DESKTOP-KK6070H'
+ host_addr='fe80::b901:1784:2bf2:efae%6'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+ </txt>
+</msg>

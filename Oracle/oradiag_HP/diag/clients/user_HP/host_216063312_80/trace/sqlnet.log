@@ -1,0 +1,92 @@
+Tue Dec 28 09:01:00 2021
+Create Relation ADR_CONTROL
+Create Relation ADR_INVALIDATION
+Create Relation INC_METER_IMPT_DEF
+Create Relation INC_METER_PK_IMPTS
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+Tue Dec 28 09:01:16 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+Tue Dec 28 09:03:03 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+Tue Dec 28 18:07:39 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+Wed Dec 29 08:51:03 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+Wed Dec 29 09:03:33 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+Wed Dec 29 09:11:23 2021
+
+
+***********************************************************************
+
+Fatal NI connect error 12543, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-KK6070H)(USER=HP)))(ADDRESS=(PROTOCOL=TCP)(HOST=0.0.32.224)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+  Time: 29-DEC-2021 09:11:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12543
+    
+TNS-12543: TNS:destination host unreachable
+    ns secondary err code: 12560
+    nt main err code: 513
+    
+TNS-00513: Destination host unreachable
+    nt secondary err code: 51
+    nt OS err code: 0
+Wed Dec 29 09:12:03 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+Wed Dec 29 09:12:25 2021
+
+
+***********************************************************************
+
+Fatal NI connect error 12543, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-KK6070H)(USER=HP)))(ADDRESS=(PROTOCOL=TCP)(HOST=0.0.32.224)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+  Time: 29-DEC-2021 09:12:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12543
+    
+TNS-12543: TNS:destination host unreachable
+    ns secondary err code: 12560
+    nt main err code: 513
+    
+TNS-00513: Destination host unreachable
+    nt secondary err code: 51
+    nt OS err code: 0
+Wed Dec 29 09:16:42 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+Wed Dec 29 09:23:21 2021
+
+
+***********************************************************************
+
+Fatal NI connect error 12543, connecting to:
+ (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=)(CID=(PROGRAM=C:\oraclexe\app\oracle\product\11.2.0\server\bin\sqlplus.exe)(HOST=DESKTOP-KK6070H)(USER=HP)))(ADDRESS=(PROTOCOL=TCP)(HOST=0.0.32.224)(PORT=1521)))
+
+  VERSION INFORMATION:
+	TNS for 64-bit Windows: Version 11.2.0.2.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 64-bit Windows: Version 11.2.0.2.0 - Production
+  Time: 29-DEC-2021 09:23:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12543
+    
+TNS-12543: TNS:destination host unreachable
+    ns secondary err code: 12560
+    nt main err code: 513
+    
+TNS-00513: Destination host unreachable
+    nt secondary err code: 51
+    nt OS err code: 0
+Wed Dec 29 09:24:25 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
